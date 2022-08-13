@@ -7,7 +7,7 @@ eWay Recurring & Subscriptions for Magento 2 allows store owners to offer subscr
 
 The extension supports to update credit card details, choose subscription periods, Email notifications and much more. Moreover, the store receives a fixed amount of revenue from the subscription products. Create flexible plans with the eWay Recurring & Subscriptions extension and benefit the store as well as customers!
 
-**Benefits of Magento 2 Magento 2 eWay Recurring & Subscriptions extension:**
+## Benefits of Magento 2 Magento 2 eWay Recurring & Subscriptions extension:
 
 * Support for simple, downloadable and virtual Magento 2 product types.
 
