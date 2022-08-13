@@ -53,4 +53,3 @@ The extension supports to update credit card details, choose subscription period
 
 For more information, visit [https://meetanshi.com/magento-2-eway-recurring-and-subscriptions.html](https://meetanshi.com/magento-2-eway-recurring-and-subscriptions.html)
 
-
