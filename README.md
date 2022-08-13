@@ -1,6 +1,6 @@
 # Magento 2 eWay Recurring & Subscriptions 
 
-[*** Magento 2 eWay Recurring & Subscriptions ***](Magento 2 eWay Recurring & Subscriptions) allows selling subscription products and accept recurring payments in Magento 2 store.
+***[Magento 2 eWay Recurring & Subscriptions](Magento 2 eWay Recurring & Subscriptions)*** allows selling subscription products and accept recurring payments in Magento 2 store.
 
 eWay Recurring & Subscriptions for Magento 2 allows store owners to offer subscription products in their store. It helps customers to escape the process of buying the same product time and again. Using the module, Magento 2 stores can offer a subscription for their services or products that are used in day to day life or memberships.
 
