@@ -1,4 +1,4 @@
-
+## Magento 2 eWay Recurring & Subscriptions
 
 ***[Magento 2 eWay Recurring & Subscriptions](https://meetanshi-blog.quora.com/Magento-2-eWay-Recurring-Subscriptions)*** allows selling subscription products and accept recurring payments in Magento 2 store.
 
